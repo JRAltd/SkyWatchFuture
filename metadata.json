@@ -1,0 +1,8 @@
+{
+  "name": "SkyWatch Future",
+  "description": "A futuristic weather dashboard with real-time radar mapping, AI insights, and hyper-local alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
